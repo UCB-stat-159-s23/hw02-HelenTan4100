@@ -3,10 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9
+  - python=3.9.12
   - ipykernel
   - numpy=1.23
   - matplotlib=3.6
   - scipy=1.10
   - h5py=3.7
-prefix: /home/jovyan/envs/ligo
+
